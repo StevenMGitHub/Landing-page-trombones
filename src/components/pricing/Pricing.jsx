@@ -4,8 +4,8 @@ function Pricing() {
     return (
     <>
         <section id="pricing">
-                   <div class="product" id="tenor">
-                       <div class="level">
+                   <div className="product" id="tenor">
+                       <div className="level">
                         Tenor Trombone
                        </div>
                        <h2>$600</h2>
@@ -15,10 +15,10 @@ function Pricing() {
                         <li>Lorem ipsum dolor.</li>
                         <li>Lorem ipsum.</li>
                        </ol>
-                       <button class="btn">Select</button>
+                       <button className="btn">Select</button>
                    </div>
-                   <div class="product" id="bass">
-                       <div class="level">
+                   <div className="product" id="bass">
+                       <div className="level">
                         Bass Trombone
                        </div>
                        <h2>$900</h2>
@@ -28,10 +28,10 @@ function Pricing() {
                         <li>Lorem ipsum dolor.</li>
                         <li>Lorem ipsum.</li>
                        </ol>
-                       <button class="btn">Select</button>
+                       <button className="btn">Select</button>
                    </div>
-                   <div class="product" id="valve">
-                        <div class="level">
+                   <div className="product" id="valve">
+                        <div className="level">
                         Valve Trombone
                         </div>
                         <h2>$1200</h2>
@@ -41,7 +41,7 @@ function Pricing() {
                             <li>Lorem ipsum dolor.</li>
                             <li>Lorem ipsum.</li>
                         </ol>
-                       <button class="btn">Select</button>
+                       <button className="btn">Select</button>
                    </div>
         </section>
     </>

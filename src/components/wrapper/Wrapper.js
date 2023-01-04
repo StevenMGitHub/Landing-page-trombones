@@ -6,8 +6,8 @@ function Wrapper() {
   return (
     <>
         <div id="page-wrapper">
-             <Header></Header>
-             <Main></Main>
+            <Header></Header>
+            <Main></Main>
         </div> 
     </>
   )
